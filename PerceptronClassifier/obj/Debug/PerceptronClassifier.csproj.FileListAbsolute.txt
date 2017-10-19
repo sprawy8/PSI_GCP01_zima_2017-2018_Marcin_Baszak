@@ -1,0 +1,9 @@
+c:\users\mbaszak\documents\visual studio 2017\Projects\PerceptronClassifier\PerceptronClassifier\obj\Debug\PerceptronClassifier.csprojResolveAssemblyReference.cache
+c:\users\mbaszak\documents\visual studio 2017\Projects\PerceptronClassifier\PerceptronClassifier\obj\Debug\PerceptronClassifier.Form1.resources
+c:\users\mbaszak\documents\visual studio 2017\Projects\PerceptronClassifier\PerceptronClassifier\obj\Debug\PerceptronClassifier.Properties.Resources.resources
+c:\users\mbaszak\documents\visual studio 2017\Projects\PerceptronClassifier\PerceptronClassifier\obj\Debug\PerceptronClassifier.csproj.GenerateResource.Cache
+c:\users\mbaszak\documents\visual studio 2017\Projects\PerceptronClassifier\PerceptronClassifier\bin\Debug\PerceptronClassifier.exe.config
+c:\users\mbaszak\documents\visual studio 2017\Projects\PerceptronClassifier\PerceptronClassifier\bin\Debug\PerceptronClassifier.exe
+c:\users\mbaszak\documents\visual studio 2017\Projects\PerceptronClassifier\PerceptronClassifier\bin\Debug\PerceptronClassifier.pdb
+c:\users\mbaszak\documents\visual studio 2017\Projects\PerceptronClassifier\PerceptronClassifier\obj\Debug\PerceptronClassifier.exe
+c:\users\mbaszak\documents\visual studio 2017\Projects\PerceptronClassifier\PerceptronClassifier\obj\Debug\PerceptronClassifier.pdb
