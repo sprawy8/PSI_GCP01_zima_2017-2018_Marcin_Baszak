@@ -1,0 +1,9 @@
+c:\users\mbaszak\documents\visual studio 2017\Projects\Rastrigin3D\Rastrigin3D\bin\Debug\Rastrigin3D.exe.config
+c:\users\mbaszak\documents\visual studio 2017\Projects\Rastrigin3D\Rastrigin3D\bin\Debug\Rastrigin3D.exe
+c:\users\mbaszak\documents\visual studio 2017\Projects\Rastrigin3D\Rastrigin3D\bin\Debug\Rastrigin3D.pdb
+c:\users\mbaszak\documents\visual studio 2017\Projects\Rastrigin3D\Rastrigin3D\obj\Debug\Rastrigin3D.csprojResolveAssemblyReference.cache
+c:\users\mbaszak\documents\visual studio 2017\Projects\Rastrigin3D\Rastrigin3D\obj\Debug\Rastrigin3D.Form1.resources
+c:\users\mbaszak\documents\visual studio 2017\Projects\Rastrigin3D\Rastrigin3D\obj\Debug\Rastrigin3D.Properties.Resources.resources
+c:\users\mbaszak\documents\visual studio 2017\Projects\Rastrigin3D\Rastrigin3D\obj\Debug\Rastrigin3D.csproj.GenerateResource.Cache
+c:\users\mbaszak\documents\visual studio 2017\Projects\Rastrigin3D\Rastrigin3D\obj\Debug\Rastrigin3D.exe
+c:\users\mbaszak\documents\visual studio 2017\Projects\Rastrigin3D\Rastrigin3D\obj\Debug\Rastrigin3D.pdb
